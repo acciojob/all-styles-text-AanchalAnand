@@ -6,7 +6,7 @@
 	background-color:purple;
     border-left-color:green;
 }
-#heading{
+.main #heading{
 	padding:10px;
 	font-size:20px;
 	color:white;
